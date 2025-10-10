@@ -27,6 +27,8 @@ Action - A simple action that can be combined with others to create a plan:
 Action planner - Creates action plans which consist of one or more actions needed to satisfy an agents goal:
 [ActionPlanner](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/43bb094071edbdaa9f77f39e0b4af4ca39710554/Assets/Scripts/GOAP/GoapPlanner.cs)
 
+Disclaimer: I'm still a student and when I started this project I was very new to Unity and didn't have any experience in making RTS games. 
+My goal was just to try whether it is possible to implement GOAP in an RTS AI
 
 Reference: https://www.youtube.com/watch?v=T_sBYgP7_2k
 
