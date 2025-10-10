@@ -4,7 +4,7 @@ An RTS project with focus on enemy AI. In this project I used the goal oriented 
 What is goal oriented action planning?
 
 
-Goal oriented action planning short (GOAP) is an ai programming pattern that doesn't rely on a simple state machine but rather uses 
+Goal oriented action planning short (GOAP) is an AI programming pattern that doesn't rely on a simple state machine but rather uses 
 so called Actions which are being executed in a specific order that is defined by the ActionPlanner. 
 
 
