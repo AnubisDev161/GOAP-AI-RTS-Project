@@ -14,3 +14,6 @@ so called Actions which are being executed in a specific order that is defined b
 
 AI Agent that controls the enemy faction:
 [GoapAgent](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/c9134d9b7146bca2f035e81d6f864a126d914d47/Assets/Scripts/GOAP/GoapAgent.cs)
+
+Action planner that creates action plans:
+[ActionPlanner](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/43bb094071edbdaa9f77f39e0b4af4ca39710554/Assets/Scripts/GOAP/GoapPlanner.cs)
