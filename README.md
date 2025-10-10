@@ -29,7 +29,7 @@ Action planner - Creates action plans which consist of one or more actions neede
 
 Disclaimer: I'm still a student and when I started this project I was very new to Unity and didn't have any experience in making RTS games. 
 My goal was just to figure out whether it is possible to implement GOAP in an RTS AI. 
-If I had the time I had re written a big part of the code base, especially everything player related. 
+If I had had the time, I would have rewritten most of the code, especially everything related to the player.
 
 Reference: https://www.youtube.com/watch?v=T_sBYgP7_2k
 
