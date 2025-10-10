@@ -28,5 +28,7 @@ Action planner - Creates action plans which consist of one or more actions neede
 [ActionPlanner](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/43bb094071edbdaa9f77f39e0b4af4ca39710554/Assets/Scripts/GOAP/GoapPlanner.cs)
 
 
+Reference: https://www.youtube.com/watch?v=T_sBYgP7_2k
 
+Sources: https://www.youtube.com/watch?v=PaOLBOuyswI
 
