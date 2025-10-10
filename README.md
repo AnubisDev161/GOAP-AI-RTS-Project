@@ -21,7 +21,7 @@ Goals - what the agent tries to achieve with action plans:
 Beliefs - Represents the current world state of the agent to track if a goal as been achieved or needs to be discarded:
 [AgentBelief](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/3193fc97c1ee49c02e322f886552ed2cdb1ded3e/Assets/Scripts/GOAP/AgentBelief.cs)
 
-A simple action that can be combined with others to create a plan:
+Action - A simple action that can be combined with others to create a plan:
 [AgentAction](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/6acf3f3d0d790854e32c8714bf0663f538515150/Assets/Scripts/GOAP/AgentAction.cs)
 
 Action planner - Creates action plans which consist of one or more actions needed to satisfy an agents goal:
