@@ -22,7 +22,7 @@ Goals - what the agent tries to achieve with action plans:
 [AgentGoal](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/bcc0add75dcf24f63f01e6dfe39cc10a43645e37/Assets/Scripts/GOAP/AgentGoal.cs)
 
 Beliefs - Represents the current world state of the agent to track if a goal as been achieved or needs to be discarded:
-[AgantBelief](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/3193fc97c1ee49c02e322f886552ed2cdb1ded3e/Assets/Scripts/GOAP/AgentBelief.cs)
+[AgentBelief](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/3193fc97c1ee49c02e322f886552ed2cdb1ded3e/Assets/Scripts/GOAP/AgentBelief.cs)
 
 
 
