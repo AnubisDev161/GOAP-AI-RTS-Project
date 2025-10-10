@@ -17,3 +17,8 @@ AI Agent that controls the enemy faction:
 
 Action planner that creates action plans:
 [ActionPlanner](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/43bb094071edbdaa9f77f39e0b4af4ca39710554/Assets/Scripts/GOAP/GoapPlanner.cs)
+
+A goal is what the agent tries to achieve with action plans:
+[AgentGoal](https://github.com/AnubisDev161/GOAP-AI-RTS-Project/blob/bcc0add75dcf24f63f01e6dfe39cc10a43645e37/Assets/Scripts/GOAP/AgentGoal.cs)
+
+
