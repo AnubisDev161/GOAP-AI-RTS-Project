@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5765653119599332919
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2514455544911575023, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_Name
+      value: Enemy_Unit
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514455544911575023, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_TagString
+      value: CPU_Unit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4722806060143345856, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_TagString
+      value: CPU_Unit
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.453225
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.093
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.2969112
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103722518591961793, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817858028989679406, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 934d4b490220bb44a87c6f763ef85fac, type: 2}
+    - target: {fileID: 9040432406452552139, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: faction
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9206246154386866210, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      propertyPath: m_TagString
+      value: CPU_Unit
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 9040432406452552139, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+    m_RemovedGameObjects:
+    - {fileID: 9206246154386866210, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2514455544911575023, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+      insertIndex: 4
+      addedObject: {fileID: 8100460057221519570}
+  m_SourcePrefab: {fileID: 100100000, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+--- !u!23 &3052567390741514521 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 8817858028989679406, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+  m_PrefabInstance: {fileID: 5765653119599332919}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5788220880685482537 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 22609049985387550, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+  m_PrefabInstance: {fileID: 5765653119599332919}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8279468827064957400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fa8f15db2ab8347a197014d0f76a00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7951401339221556808 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4493109827568595071, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+  m_PrefabInstance: {fileID: 5765653119599332919}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &8279468827064957400 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2514455544911575023, guid: a98ccac26968c7a4e8c6e684bb73887a, type: 3}
+  m_PrefabInstance: {fileID: 5765653119599332919}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8100460057221519570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8279468827064957400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f137a3d215809d34e9c5f53755d3b3bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  meshRenderer: {fileID: 3052567390741514521}
+  player_cam: {fileID: 0}
+  agent: {fileID: 0}
+  animator: {fileID: 0}
+  timer: {fileID: 5788220880685482537}
+  ground:
+    serializedVersion: 2
+    m_Bits: 64
+  layers:
+  - serializedVersion: 2
+    m_Bits: 64
+  follow_mouse_click_position: 0
+  commando_unit: {fileID: 0}
+  min_attack_distance: 1.41
+  max_patroling_distance: 5
+  patroling_speed: 1.25
+  min_follow_distance: 1
+  max_distance_to_commando_unit: 4
+  order_placed: 0
+  hold_position: 0
+  target: {fileID: 0}
+  faction: 20
+  state_label: {fileID: 7951401339221556808}
+  action_time: 0.1
+  is_patroling: 0
+  <max_health>k__BackingField: 100
+  <current_health>k__BackingField: 0
+  <damage>k__BackingField: 50

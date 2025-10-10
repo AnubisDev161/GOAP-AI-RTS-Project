@@ -1,0 +1,34 @@
+{
+    "name": "Player_Controls",
+    "maps": [
+        {
+            "name": "Strategy_Gameplay",
+            "id": "80589873-e538-45b0-ac15-a6ad54779c70",
+            "actions": [
+                {
+                    "name": "Order_hold_position",
+                    "type": "Button",
+                    "id": "73994c71-969a-4bd3-9af6-498f50dcfa77",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1c312ac9-a502-4cca-8f8f-3b382c2952c4",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Order_hold_position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
