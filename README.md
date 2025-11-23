@@ -1,7 +1,7 @@
 # GOAP-AI-RTS-Project
 An RTS project with focus on enemy AI. In this project I used the goal oriented action planning method (GOAP) to create an enemy AI that builds its own base and attacks the player. 
 
-What is goal oriented action planning?
+# What is goal oriented action planning?
 
 
 Goal oriented action planning short (GOAP) is an AI programming pattern that doesn't rely on a simple state machine but rather uses 
