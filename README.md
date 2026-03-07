@@ -1,3 +1,5 @@
+<img width="1600" height="892" alt="GOAP_Ppoject" src="https://github.com/user-attachments/assets/95024a3f-fa41-45e0-a728-ee321b75cdf3" />
+
 # GOAP-AI-RTS-Project
 An RTS project with focus on enemy AI. In this project I used the goal oriented action planning method (GOAP) to create an enemy AI that builds its own base and attacks the player. 
 
