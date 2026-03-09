@@ -11,8 +11,6 @@ so called Actions which are being executed in a specific order that is defined b
 
 
 <img width="1152" height="648" alt="Goal_Oriented_Action_Planning_Graph" src="https://github.com/user-attachments/assets/1af68850-58ad-466d-b83c-9d168d654ce5" />
-<img width="1248" height="859" alt="image" src="https://github.com/user-attachments/assets/dcbbbdb5-e3f6-4430-9692-cd0c38b7be4f" />
-
 
 
 ### AI Agent that controls the enemy faction:
